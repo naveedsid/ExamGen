@@ -1,0 +1,7 @@
+/* This is Style file */
+.float-right{
+    float: right !important;
+}
+.d-inline-block{
+    display: inline-block;
+}
